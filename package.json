@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo-ng",
+  "version": "1.0.0",
+  "description": "ejemplo curso angular",
+  "main": "index.html",
+  "scripts": {
+    "test": "http-server "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mart-dominguez/ng-ejemplo-ofa.git"
+  },
+  "author": "martdominguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mart-dominguez/ng-ejemplo-ofa/issues"
+  },
+  "homepage": "https://github.com/mart-dominguez/ng-ejemplo-ofa#readme",
+  "dependencies": {
+    "angular": "^1.5.5"
+  }
+}
